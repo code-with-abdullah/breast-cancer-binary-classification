@@ -1,0 +1,6 @@
+Histogram of population (negative/positive)
+Histogram of a sample from Population
+ - 7%, 15%, etc
+
+Histogram of 5 positive, negative images
+ - before and after normalization of pixel intensity values
